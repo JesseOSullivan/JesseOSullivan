@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseOSullivan&layout=compact&langs_count=10&theme=dark&hide=html&access_token=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)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseOSullivan&layout=compact&langs_count=10&theme=dark&hide=html&access_token=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)
